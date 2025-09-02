@@ -1,6 +1,5 @@
 # tugas-agama
 tpb tugas agama Muhamad Tanbih kelompok 69
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
