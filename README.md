@@ -4,7 +4,7 @@ tpb tugas agama Muhamad Tanbih kelompok 69
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test RevoU</title>
+
 </head>
 <body>
     <h1>Bagaimana agama menjadi kode moral dalam penyelesaian masalah secara multidisiplin</h1>
