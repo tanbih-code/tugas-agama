@@ -7,9 +7,7 @@ tpb tugas agama Muhamad Tanbih kelompok 69
   
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;display=swap" rel="stylesheet"/>
-  <style>
-   body 
-  </style>
+
  </head>
  <body class="bg-gradient-to-br from-blue-600 to-indigo-700 min-h-screen flex items-center justify-center px-6">
   <div class="bg-white bg-opacity-20 backdrop-blur-md rounded-xl shadow-lg max-w-md w-full p-10 text-center">
